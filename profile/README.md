@@ -3,7 +3,7 @@
 https://foldspace.cn
 
 
-https://foldspace-stack.github.io/
+http://docs.foldspace.cn/
 
 <!--
 
